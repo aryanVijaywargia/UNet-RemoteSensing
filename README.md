@@ -3,6 +3,8 @@
 ### Model Training 
 The training images and the corresponding output array were reshaped into a specific matrix format, e.g., (batch_size, band_count, width, height, classes) and then mapped pixel by pixel.
 
+
+## Model Architecture
 ![UNet Architecture](model.png)
 ### Information about the various code files
 * config.py file includes some properties like dataset directory, test directory and the colormap.
