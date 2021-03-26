@@ -1,1 +1,1 @@
-# UNet-Agriculture-Segementation-
+# UNet-Agriculture-Segmentation-
