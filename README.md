@@ -2,6 +2,7 @@
 
 Remote-sensing-based crop mapping implemented using UNet architecture
 
+### U-Net model
 
 The UNet architecture takes 7 bands of Landsat as input and output a one-band image with the same size (width*height). Every pixel in the images are translated to a crop pixel with a value indicating its type.
 
